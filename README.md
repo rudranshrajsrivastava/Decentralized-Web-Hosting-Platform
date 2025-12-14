@@ -39,9 +39,7 @@ Follow these steps to get the project up and running on your local machine.
 2.  Install dependencies:
     ```bash
     npm install
-    # or
-    yarn install
-    ```
+    
 
 ### Running the Development Server
 
